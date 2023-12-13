@@ -25,7 +25,7 @@
     pointer-events: auto;
   }
  .sidebar_ded4b5:not(:hover) .container__590e2 { 
-    opacity: 0 !important;
+    opacity: 0;
   }
   .sidebar_ded4b5:not(:hover) .container__590e2 { 
     transition: 0.3s ease-in;
