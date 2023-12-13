@@ -24,6 +24,9 @@
     opacity: 1;
     pointer-events: auto;
   }
+ .sidebar_ded4b5:not(:hover) .container__590e2 { 
+    transition: opacity 0 0.3s ease-in !important;
+  }
   /* Expanded state */
   .sidebar_ded4b5:hover {
     width: 250px;
